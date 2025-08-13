@@ -1,0 +1,596 @@
+﻿year,region,landuse,area_ha
+2002,Area Outside Region,Beef,13139.98011
+2002,Area Outside Region,Dairy,14.7011401
+2002,Area Outside Region,Other livestock,134.1185849
+2002,Area Outside Region,Sheep,14561.70016
+2002,Auckland,Beef,100772.3595
+2002,Auckland,Dairy,41165.3218
+2002,Auckland,Other livestock,10008.33085
+2002,Auckland,Sheep,33726.98783
+2002,Bay of Plenty,Beef,85235.83627
+2002,Bay of Plenty,Dairy,78932.71412
+2002,Bay of Plenty,Other livestock,7095.043991
+2002,Bay of Plenty,Sheep,44227.30562
+2002,Canterbury,Beef,733340.8012
+2002,Canterbury,Dairy,113443.6303
+2002,Canterbury,Other livestock,38256.15213
+2002,Canterbury,Sheep,1654387.416
+2002,Gisborne,Beef,219913.7078
+2002,Gisborne,Dairy,2973.161029
+2002,Gisborne,Other livestock,4597.846403
+2002,Gisborne,Sheep,162310.2847
+2002,Hawke's Bay,Beef,328772.3495
+2002,Hawke's Bay,Dairy,18903.77294
+2002,Hawke's Bay,Other livestock,9284.657978
+2002,Hawke's Bay,Sheep,330996.4196
+2002,Manawatu-Whanganui,Beef,450641.8078
+2002,Manawatu-Whanganui,Dairy,106790.3427
+2002,Manawatu-Whanganui,Other livestock,13428.62887
+2002,Manawatu-Whanganui,Sheep,590386.0207
+2002,Marlborough,Beef,279344.0826
+2002,Marlborough,Dairy,8199.138854
+2002,Marlborough,Other livestock,3306.755654
+2002,Marlborough,Sheep,224698.0229
+2002,Nelson,Beef,1824.313978
+2002,Nelson,Dairy,400.933832
+2002,Nelson,Other livestock,249.7732022
+2002,Nelson,Sheep,1444.378988
+2002,Northland,Beef,310688.3223
+2002,Northland,Dairy,126277.4705
+2002,Northland,Other livestock,7861.720616
+2002,Northland,Sheep,49121.38664
+2002,Otago,Beef,511797.3155
+2002,Otago,Dairy,53474.3654
+2002,Otago,Other livestock,13853.97044
+2002,Otago,Sheep,1446718.249
+2002,Southland,Beef,216875.3054
+2002,Southland,Dairy,88108.7812
+2002,Southland,Other livestock,9931.123821
+2002,Southland,Sheep,644667.2896
+2002,Taranaki,Beef,98563.41564
+2002,Taranaki,Dairy,144990.6837
+2002,Taranaki,Other livestock,9511.238939
+2002,Taranaki,Sheep,85651.26169
+2002,Tasman,Beef,40754.73165
+2002,Tasman,Dairy,18867.03805
+2002,Tasman,Other livestock,2356.020662
+2002,Tasman,Sheep,44001.00964
+2002,Waikato,Beef,412334.0564
+2002,Waikato,Dairy,351450.8872
+2002,Waikato,Other livestock,35820.54261
+2002,Waikato,Sheep,254096.3137
+2002,Wellington,Beef,121742.907
+2002,Wellington,Dairy,31018.56104
+2002,Wellington,Other livestock,5141.782035
+2002,Wellington,Sheep,180841.75
+2002,West Coast,Beef,52381.20743
+2002,West Coast,Dairy,45472.16106
+2002,West Coast,Other livestock,3277.81204
+2002,West Coast,Sheep,17337.31946
+2007,Area Outside Region,Beef,14404.56572
+2007,Area Outside Region,Dairy,0
+2007,Area Outside Region,Other livestock,156.0163285
+2007,Area Outside Region,Sheep,12604.01796
+2007,Auckland,Beef,74417.70846
+2007,Auckland,Dairy,46495.89239
+2007,Auckland,Other livestock,12171.66624
+2007,Auckland,Sheep,29794.13291
+2007,Bay of Plenty,Beef,49956.87469
+2007,Bay of Plenty,Dairy,103075.8883
+2007,Bay of Plenty,Other livestock,9003.369102
+2007,Bay of Plenty,Sheep,34708.76793
+2007,Canterbury,Beef,571171.9506
+2007,Canterbury,Dairy,223099.0769
+2007,Canterbury,Other livestock,140177.9815
+2007,Canterbury,Sheep,1514183.691
+2007,Gisborne,Beef,165338.6532
+2007,Gisborne,Dairy,3514.196259
+2007,Gisborne,Other livestock,7011.734161
+2007,Gisborne,Sheep,188664.7164
+2007,Hawke's Bay,Beef,257247.2625
+2007,Hawke's Bay,Dairy,30404.46904
+2007,Hawke's Bay,Other livestock,20462.03591
+2007,Hawke's Bay,Sheep,387641.7326
+2007,Manawatu-Whanganui,Beef,328321.1156
+2007,Manawatu-Whanganui,Dairy,154280.0164
+2007,Manawatu-Whanganui,Other livestock,23159.81128
+2007,Manawatu-Whanganui,Sheep,616651.0567
+2007,Marlborough,Beef,157079.3746
+2007,Marlborough,Dairy,11307.63826
+2007,Marlborough,Other livestock,7145.707494
+2007,Marlborough,Sheep,177194.6797
+2007,Nelson,Beef,812.5071332
+2007,Nelson,Dairy,892.8640559
+2007,Nelson,Other livestock,185.9267491
+2007,Nelson,Sheep,1323.902062
+2007,Northland,Beef,260065.9134
+2007,Northland,Dairy,162817.262
+2007,Northland,Other livestock,7996.106019
+2007,Northland,Sheep,49965.71859
+2007,Otago,Beef,360868.3056
+2007,Otago,Dairy,87486.53557
+2007,Otago,Other livestock,81703.79782
+2007,Otago,Sheep,1396481.861
+2007,Southland,Beef,135319.5294
+2007,Southland,Dairy,164969.0347
+2007,Southland,Other livestock,62453.19381
+2007,Southland,Sheep,584901.2421
+2007,Taranaki,Beef,77789.76462
+2007,Taranaki,Dairy,200076.9601
+2007,Taranaki,Other livestock,3310.652067
+2007,Taranaki,Sheep,70524.12321
+2007,Tasman,Beef,30942.24953
+2007,Tasman,Dairy,27043.88036
+2007,Tasman,Other livestock,4667.269146
+2007,Tasman,Sheep,41580.10096
+2007,Waikato,Beef,295536.6551
+2007,Waikato,Dairy,564867.2771
+2007,Waikato,Other livestock,32488.1951
+2007,Waikato,Sheep,232184.9727
+2007,Wellington,Beef,87051.5441
+2007,Wellington,Dairy,39943.55974
+2007,Wellington,Other livestock,6841.423087
+2007,Wellington,Sheep,201310.5731
+2007,West Coast,Beef,29307.94406
+2007,West Coast,Dairy,73051.41766
+2007,West Coast,Other livestock,10416.39595
+2007,West Coast,Sheep,7365.942339
+2012,Area Outside Region,Beef,20010.34884
+2012,Area Outside Region,Dairy,110.2093201
+2012,Area Outside Region,Other livestock,47.00810328
+2012,Area Outside Region,Sheep,18104.43373
+2012,Auckland,Beef,63548.38759
+2012,Auckland,Dairy,50368.77522
+2012,Auckland,Other livestock,7834.718317
+2012,Auckland,Sheep,21555.11888
+2012,Bay of Plenty,Beef,49710.49427
+2012,Bay of Plenty,Dairy,114609.5965
+2012,Bay of Plenty,Other livestock,9508.023738
+2012,Bay of Plenty,Sheep,33174.88549
+2012,Canterbury,Beef,521895.6951
+2012,Canterbury,Dairy,327111.9108
+2012,Canterbury,Other livestock,117459.5871
+2012,Canterbury,Sheep,1223710.907
+2012,Gisborne,Beef,166111.7056
+2012,Gisborne,Dairy,9174.99431
+2012,Gisborne,Other livestock,4944.004777
+2012,Gisborne,Sheep,172364.7953
+2012,Hawke's Bay,Beef,268123.3086
+2012,Hawke's Bay,Dairy,36104.54713
+2012,Hawke's Bay,Other livestock,16107.2919
+2012,Hawke's Bay,Sheep,330626.4524
+2012,Manawatu-Whanganui,Beef,317432.26
+2012,Manawatu-Whanganui,Dairy,200837.9363
+2012,Manawatu-Whanganui,Other livestock,20158.36251
+2012,Manawatu-Whanganui,Sheep,585341.7412
+2012,Marlborough,Beef,163462.0203
+2012,Marlborough,Dairy,16443.24216
+2012,Marlborough,Other livestock,5588.045034
+2012,Marlborough,Sheep,164744.8925
+2012,Nelson,Beef,875.7322521
+2012,Nelson,Dairy,909.2375964
+2012,Nelson,Other livestock,400.4118141
+2012,Nelson,Sheep,1017.918337
+2012,Northland,Beef,227573.0905
+2012,Northland,Dairy,189655.2814
+2012,Northland,Other livestock,6902.416396
+2012,Northland,Sheep,49071.31174
+2012,Otago,Beef,383132.3713
+2012,Otago,Dairy,129878.3987
+2012,Otago,Other livestock,65489.30713
+2012,Otago,Sheep,1341360.923
+2012,Southland,Beef,135292.8694
+2012,Southland,Dairy,241950.7855
+2012,Southland,Other livestock,52351.48216
+2012,Southland,Sheep,504211.963
+2012,Taranaki,Beef,58328.92386
+2012,Taranaki,Dairy,213190.4875
+2012,Taranaki,Other livestock,3471.905874
+2012,Taranaki,Sheep,53698.78279
+2012,Tasman,Beef,25178.02749
+2012,Tasman,Dairy,30319.21646
+2012,Tasman,Other livestock,4022.030912
+2012,Tasman,Sheep,31768.02514
+2012,Waikato,Beef,261028.0907
+2012,Waikato,Dairy,651553.4617
+2012,Waikato,Other livestock,28326.33497
+2012,Waikato,Sheep,188679.9126
+2012,Wellington,Beef,83708.27582
+2012,Wellington,Dairy,50273.96272
+2012,Wellington,Other livestock,5350.393061
+2012,Wellington,Sheep,179216.4684
+2012,West Coast,Beef,28884.12689
+2012,West Coast,Dairy,80807.72103
+2012,West Coast,Other livestock,7254.180002
+2012,West Coast,Sheep,10448.07208
+2017,Area Outside Region,Beef,13089.76594
+2017,Area Outside Region,Dairy,202.6989957
+2017,Area Outside Region,Other livestock,35.08286691
+2017,Area Outside Region,Sheep,12773.9522
+2017,Auckland,Beef,70039.26142
+2017,Auckland,Dairy,54340.07159
+2017,Auckland,Other livestock,5797.046353
+2017,Auckland,Sheep,42213.42063
+2017,Bay of Plenty,Beef,53368.09921
+2017,Bay of Plenty,Dairy,115149.2374
+2017,Bay of Plenty,Other livestock,6535.557524
+2017,Bay of Plenty,Sheep,33841.70582
+2017,Canterbury,Beef,471875.1762
+2017,Canterbury,Dairy,359081.1322
+2017,Canterbury,Other livestock,105530.46
+2017,Canterbury,Sheep,1062871.432
+2017,Gisborne,Beef,151429.0324
+2017,Gisborne,Dairy,5318.678092
+2017,Gisborne,Other livestock,4183.385359
+2017,Gisborne,Sheep,154669.8041
+2017,Hawke's Bay,Beef,244186.7414
+2017,Hawke's Bay,Dairy,34356.96733
+2017,Hawke's Bay,Other livestock,13245.24216
+2017,Hawke's Bay,Sheep,296925.7491
+2017,Manawatu-Whanganui,Beef,309470.7961
+2017,Manawatu-Whanganui,Dairy,193902.0462
+2017,Manawatu-Whanganui,Other livestock,16729.34332
+2017,Manawatu-Whanganui,Sheep,541094.2145
+2017,Marlborough,Beef,126041.672
+2017,Marlborough,Dairy,45747.76583
+2017,Marlborough,Other livestock,2980.934896
+2017,Marlborough,Sheep,149584.4273
+2017,Nelson,Beef,2802.076786
+2017,Nelson,Dairy,1606.525862
+2017,Nelson,Other livestock,96.59899163
+2017,Nelson,Sheep,2272.79836
+2017,Northland,Beef,225367.208
+2017,Northland,Dairy,180209.2849
+2017,Northland,Other livestock,4985.092888
+2017,Northland,Sheep,36163.31418
+2017,Otago,Beef,325983.9118
+2017,Otago,Dairy,126309.6457
+2017,Otago,Other livestock,58006.03532
+2017,Otago,Sheep,1167070.607
+2017,Southland,Beef,127794.7394
+2017,Southland,Dairy,250343.6953
+2017,Southland,Other livestock,45275.28529
+2017,Southland,Sheep,473491.48
+2017,Taranaki,Beef,64286.6333
+2017,Taranaki,Dairy,197922.9848
+2017,Taranaki,Other livestock,2462.217005
+2017,Taranaki,Sheep,58389.76486
+2017,Tasman,Beef,24321.61333
+2017,Tasman,Dairy,29898.71525
+2017,Tasman,Other livestock,3684.802469
+2017,Tasman,Sheep,30817.26895
+2017,Waikato,Beef,249175.3086
+2017,Waikato,Dairy,642550.231
+2017,Waikato,Other livestock,24650.50915
+2017,Waikato,Sheep,157740.1512
+2017,Wellington,Beef,82062.28264
+2017,Wellington,Dairy,40516.39971
+2017,Wellington,Other livestock,4545.014189
+2017,Wellington,Sheep,165596.4035
+2017,West Coast,Beef,27072.92835
+2017,West Coast,Dairy,74106.48311
+2017,West Coast,Other livestock,7923.340504
+2017,West Coast,Sheep,7852.448031
+2019,Area Outside Region,Beef,8605.939433
+2019,Area Outside Region,Dairy,0
+2019,Area Outside Region,Other livestock,47.28778663
+2019,Area Outside Region,Sheep,15187.32754
+2019,Auckland,Beef,68874.14014
+2019,Auckland,Dairy,54823.93488
+2019,Auckland,Other livestock,7056.359025
+2019,Auckland,Sheep,26254.74527
+2019,Bay of Plenty,Beef,48042.33902
+2019,Bay of Plenty,Dairy,107836.2025
+2019,Bay of Plenty,Other livestock,6504.241631
+2019,Bay of Plenty,Sheep,22714.11164
+2019,Canterbury,Beef,477037.386
+2019,Canterbury,Dairy,326152.6337
+2019,Canterbury,Other livestock,98487.83944
+2019,Canterbury,Sheep,971792.0219
+2019,Gisborne,Beef,143995.5461
+2019,Gisborne,Dairy,4649.000345
+2019,Gisborne,Other livestock,2460.247703
+2019,Gisborne,Sheep,141752.587
+2019,Hawke's Bay,Beef,256872.4408
+2019,Hawke's Bay,Dairy,29748.92539
+2019,Hawke's Bay,Other livestock,13341.21608
+2019,Hawke's Bay,Sheep,291465.4264
+2019,Manawatu-Whanganui,Beef,308062.0658
+2019,Manawatu-Whanganui,Dairy,178832.8011
+2019,Manawatu-Whanganui,Other livestock,14737.86327
+2019,Manawatu-Whanganui,Sheep,516861.9794
+2019,Marlborough,Beef,179978.202
+2019,Marlborough,Dairy,10056.85636
+2019,Marlborough,Other livestock,2638.84863
+2019,Marlborough,Sheep,146606.1607
+2019,Nelson,Beef,1848.117075
+2019,Nelson,Dairy,1374.269722
+2019,Nelson,Other livestock,103.4607926
+2019,Nelson,Sheep,1931.094049
+2019,Northland,Beef,240118.19
+2019,Northland,Dairy,166101.144
+2019,Northland,Other livestock,4112.352371
+2019,Northland,Sheep,30544.90942
+2019,Otago,Beef,382171.1277
+2019,Otago,Dairy,133158.8291
+2019,Otago,Other livestock,109503.1857
+2019,Otago,Sheep,1151055.74
+2019,Southland,Beef,124599.3785
+2019,Southland,Dairy,239446.7278
+2019,Southland,Other livestock,46863.58305
+2019,Southland,Sheep,385998.3309
+2019,Taranaki,Beef,69662.90317
+2019,Taranaki,Dairy,207085.6914
+2019,Taranaki,Other livestock,2262.222215
+2019,Taranaki,Sheep,50262.19706
+2019,Tasman,Beef,25744.45557
+2019,Tasman,Dairy,28859.80867
+2019,Tasman,Other livestock,1828.545564
+2019,Tasman,Sheep,25457.35561
+2019,Waikato,Beef,270708.0917
+2019,Waikato,Dairy,628420.0941
+2019,Waikato,Other livestock,24835.36825
+2019,Waikato,Sheep,162413.4689
+2019,Wellington,Beef,87981.62323
+2019,Wellington,Dairy,34008.55948
+2019,Wellington,Other livestock,6923.900118
+2019,Wellington,Sheep,158547.4898
+2019,West Coast,Beef,24614.69669
+2019,West Coast,Dairy,70903.97195
+2019,West Coast,Other livestock,5721.323626
+2019,West Coast,Sheep,2956.097506
+2002,Area Outside Region,Forestry,560.5
+2002,Area Outside Region,Grain,22
+2002,Area Outside Region,Horticultural,0
+2002,Auckland,Forestry,48790
+2002,Auckland,Grain,2478.1
+2002,Auckland,Horticultural,9195.3
+2002,Bay of Plenty,Forestry,251090
+2002,Bay of Plenty,Grain,7509.6
+2002,Bay of Plenty,Horticultural,14678.6
+2002,Canterbury,Forestry,105810.8
+2002,Canterbury,Grain,207214.8
+2002,Canterbury,Horticultural,12384.7
+2002,Gisborne,Forestry,129898.8
+2002,Gisborne,Grain,6009.5
+2002,Gisborne,Horticultural,7279.1
+2002,Hawke's Bay,Forestry,123759.7
+2002,Hawke's Bay,Grain,15663.7
+2002,Hawke's Bay,Horticultural,17920.9
+2002,Manawatu-Whanganui,Forestry,136946.2
+2002,Manawatu-Whanganui,Grain,25108.7
+2002,Manawatu-Whanganui,Horticultural,4985.1
+2002,Marlborough,Forestry,64156
+2002,Marlborough,Grain,9257.9
+2002,Marlborough,Horticultural,10052.4
+2002,Nelson,Forestry,10972.2
+2002,Nelson,Grain,26.2
+2002,Nelson,Horticultural,170.8
+2002,Northland,Forestry,168446.2
+2002,Northland,Grain,3040.8
+2002,Northland,Horticultural,5143.7
+2002,Otago,Forestry,132807.3
+2002,Otago,Grain,62704.6
+2002,Otago,Horticultural,5153.5
+2002,Southland,Forestry,66916.5
+2002,Southland,Grain,54475.5
+2002,Southland,Horticultural,1343
+2002,Taranaki,Forestry,28073.6
+2002,Taranaki,Grain,4093.8
+2002,Taranaki,Horticultural,1157.9
+2002,Tasman,Forestry,85213.8
+2002,Tasman,Grain,1836.6
+2002,Tasman,Horticultural,6995.6
+2002,Waikato,Forestry,329785.2
+2002,Waikato,Grain,16869.2
+2002,Waikato,Horticultural,10298.2
+2002,Wellington,Forestry,69867.3
+2002,Wellington,Grain,8337.8
+2002,Wellington,Horticultural,2416.1
+2002,West Coast,Forestry,35896
+2002,West Coast,Grain,1483.9
+2002,West Coast,Horticultural,257.2
+2007,Area Outside Region,Forestry,28
+2007,Area Outside Region,Grain,8.8
+2007,Area Outside Region,Horticultural,4.9
+2007,Auckland,Forestry,35228.1
+2007,Auckland,Grain,1780.9
+2007,Auckland,Horticultural,9647.3
+2007,Bay of Plenty,Forestry,257412.3
+2007,Bay of Plenty,Grain,7142.7
+2007,Bay of Plenty,Horticultural,16185.7
+2007,Canterbury,Forestry,99856
+2007,Canterbury,Grain,195149.6
+2007,Canterbury,Horticultural,16053.7
+2007,Gisborne,Forestry,149041
+2007,Gisborne,Grain,4344.9
+2007,Gisborne,Horticultural,8995.5
+2007,Hawke's Bay,Forestry,136860
+2007,Hawke's Bay,Grain,9396
+2007,Hawke's Bay,Horticultural,19340.3
+2007,Manawatu-Whanganui,Forestry,118417
+2007,Manawatu-Whanganui,Grain,16032.5
+2007,Manawatu-Whanganui,Horticultural,5103.5
+2007,Marlborough,Forestry,63647.8
+2007,Marlborough,Grain,5765.8
+2007,Marlborough,Horticultural,23380.2
+2007,Nelson,Forestry,9409.4
+2007,Nelson,Grain,6.3
+2007,Nelson,Horticultural,133
+2007,Northland,Forestry,161582
+2007,Northland,Grain,2313.5
+2007,Northland,Horticultural,5841.1
+2007,Otago,Forestry,122315.1
+2007,Otago,Grain,53591
+2007,Otago,Horticultural,7387.3
+2007,Southland,Forestry,70792.1
+2007,Southland,Grain,46154.4
+2007,Southland,Horticultural,1234.3
+2007,Taranaki,Forestry,25870.6
+2007,Taranaki,Grain,2010.5
+2007,Taranaki,Horticultural,505.9
+2007,Tasman,Forestry,81770.3
+2007,Tasman,Grain,1329.2
+2007,Tasman,Horticultural,6850.1
+2007,Waikato,Forestry,283486.3
+2007,Waikato,Grain,18064.5
+2007,Waikato,Horticultural,9726.3
+2007,Wellington,Forestry,62500.2
+2007,Wellington,Grain,4623.9
+2007,Wellington,Horticultural,2065.3
+2007,West Coast,Forestry,33277.3
+2007,West Coast,Grain,885.2
+2007,West Coast,Horticultural,73.9
+2012,Area Outside Region,Forestry,74.3
+2012,Area Outside Region,Grain,114.9
+2012,Area Outside Region,Horticultural,0
+2012,Auckland,Forestry,34105.5
+2012,Auckland,Grain,2911.4
+2012,Auckland,Horticultural,8298.9
+2012,Bay of Plenty,Forestry,241599.7
+2012,Bay of Plenty,Grain,6608.2
+2012,Bay of Plenty,Horticultural,14877.1
+2012,Canterbury,Forestry,94720.4
+2012,Canterbury,Grain,242080.8
+2012,Canterbury,Horticultural,16424.1
+2012,Gisborne,Forestry,153417.8
+2012,Gisborne,Grain,3999.4
+2012,Gisborne,Horticultural,8319.8
+2012,Hawke's Bay,Forestry,129815.4
+2012,Hawke's Bay,Grain,15473.4
+2012,Hawke's Bay,Horticultural,20711
+2012,Manawatu-Whanganui,Forestry,120539.5
+2012,Manawatu-Whanganui,Grain,22664.6
+2012,Manawatu-Whanganui,Horticultural,4812.1
+2012,Marlborough,Forestry,63400.9
+2012,Marlborough,Grain,6355.3
+2012,Marlborough,Horticultural,25186.7
+2012,Nelson,Forestry,8677.1
+2012,Nelson,Grain,59.4
+2012,Nelson,Horticultural,52
+2012,Northland,Forestry,151556.4
+2012,Northland,Grain,2772.9
+2012,Northland,Horticultural,5187.5
+2012,Otago,Forestry,115303
+2012,Otago,Grain,68097.4
+2012,Otago,Horticultural,5582
+2012,Southland,Forestry,70529.4
+2012,Southland,Grain,61383.8
+2012,Southland,Horticultural,1234.1
+2012,Taranaki,Forestry,23443.3
+2012,Taranaki,Grain,2539.7
+2012,Taranaki,Horticultural,479.1
+2012,Tasman,Forestry,79437
+2012,Tasman,Grain,1684.9
+2012,Tasman,Horticultural,6456.9
+2012,Waikato,Forestry,248883.4
+2012,Waikato,Grain,22463.4
+2012,Waikato,Horticultural,8262.2
+2012,Wellington,Forestry,61711.8
+2012,Wellington,Grain,8682.9
+2012,Wellington,Horticultural,1995.8
+2012,West Coast,Forestry,25410.9
+2012,West Coast,Grain,1781.1
+2012,West Coast,Horticultural,118.4
+2017,Area Outside Region,Forestry,287.9
+2017,Area Outside Region,Grain,23.9
+2017,Area Outside Region,Horticultural,0
+2017,Auckland,Forestry,36682.6
+2017,Auckland,Grain,3221.4
+2017,Auckland,Horticultural,10998.9
+2017,Bay of Plenty,Forestry,292376.5
+2017,Bay of Plenty,Grain,6534.9
+2017,Bay of Plenty,Horticultural,13889.8
+2017,Canterbury,Forestry,79647.7
+2017,Canterbury,Grain,237868
+2017,Canterbury,Horticultural,15244.2
+2017,Gisborne,Forestry,132857.1
+2017,Gisborne,Grain,5596.4
+2017,Gisborne,Horticultural,9371.3
+2017,Hawke's Bay,Forestry,119886.2
+2017,Hawke's Bay,Grain,16511.2
+2017,Hawke's Bay,Horticultural,19727.2
+2017,Manawatu-Whanganui,Forestry,125176.7
+2017,Manawatu-Whanganui,Grain,23329.7
+2017,Manawatu-Whanganui,Horticultural,4330.2
+2017,Marlborough,Forestry,60386.9
+2017,Marlborough,Grain,7100.9
+2017,Marlborough,Horticultural,25637.4
+2017,Nelson,Forestry,8688.4
+2017,Nelson,Grain,125.3
+2017,Nelson,Horticultural,131.9
+2017,Northland,Forestry,131270.2
+2017,Northland,Grain,3209.5
+2017,Northland,Horticultural,5285.2
+2017,Otago,Forestry,112660
+2017,Otago,Grain,75312.9
+2017,Otago,Horticultural,4405
+2017,Southland,Forestry,76207.5
+2017,Southland,Grain,62943.6
+2017,Southland,Horticultural,1826.2
+2017,Taranaki,Forestry,22655.5
+2017,Taranaki,Grain,4091.7
+2017,Taranaki,Horticultural,351.9
+2017,Tasman,Forestry,74898.9
+2017,Tasman,Grain,1935
+2017,Tasman,Horticultural,6378.9
+2017,Waikato,Forestry,231812.8
+2017,Waikato,Grain,28716
+2017,Waikato,Horticultural,6963.7
+2017,Wellington,Forestry,55008.1
+2017,Wellington,Grain,10841.2
+2017,Wellington,Horticultural,1850.2
+2017,West Coast,Forestry,18483.3
+2017,West Coast,Grain,3192.1
+2017,West Coast,Horticultural,70.5
+2019,Area Outside Region,Forestry,44.0535713
+2019,Area Outside Region,Grain,0
+2019,Area Outside Region,Horticultural,0
+2019,Auckland,Forestry,40020.57077
+2019,Auckland,Grain,2290.944623
+2019,Auckland,Horticultural,9493.49105
+2019,Bay of Plenty,Forestry,281258.3821
+2019,Bay of Plenty,Grain,8532.950651
+2019,Bay of Plenty,Horticultural,15362.19927
+2019,Canterbury,Forestry,89077.19551
+2019,Canterbury,Grain,229257.27
+2019,Canterbury,Horticultural,17287.63885
+2019,Gisborne,Forestry,129402.3052
+2019,Gisborne,Grain,5670.104152
+2019,Gisborne,Horticultural,8390.770713
+2019,Hawke's Bay,Forestry,128695.0829
+2019,Hawke's Bay,Grain,16421.18144
+2019,Hawke's Bay,Horticultural,20625.19278
+2019,Manawatu-Whanganui,Forestry,140175.725
+2019,Manawatu-Whanganui,Grain,26188.485
+2019,Manawatu-Whanganui,Horticultural,4874.498993
+2019,Marlborough,Forestry,59003.70005
+2019,Marlborough,Grain,5497.625191
+2019,Marlborough,Horticultural,28962.31343
+2019,Nelson,Forestry,8619.454993
+2019,Nelson,Grain,0
+2019,Nelson,Horticultural,85.53999982
+2019,Northland,Forestry,137155.2163
+2019,Northland,Grain,4652.09535
+2019,Northland,Horticultural,5527.422517
+2019,Otago,Forestry,119986.3681
+2019,Otago,Grain,75752.61599
+2019,Otago,Horticultural,4576.99718
+2019,Southland,Forestry,76679.52061
+2019,Southland,Grain,62980.27034
+2019,Southland,Horticultural,1683.384932
+2019,Taranaki,Forestry,21104.21088
+2019,Taranaki,Grain,6631.714146
+2019,Taranaki,Horticultural,513.8904914
+2019,Tasman,Forestry,72622.91052
+2019,Tasman,Grain,2218.047055
+2019,Tasman,Horticultural,6892.60023
+2019,Waikato,Forestry,211170.3514
+2019,Waikato,Grain,27419.79615
+2019,Waikato,Horticultural,6304.593906
+2019,Wellington,Forestry,56111.0982
+2019,Wellington,Grain,10398.24058
+2019,Wellington,Horticultural,1905.585238
+2019,West Coast,Forestry,26830.36191
+2019,West Coast,Grain,3851.707612
+2019,West Coast,Horticultural,230.5333337
